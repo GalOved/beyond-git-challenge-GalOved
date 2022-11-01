@@ -4,7 +4,11 @@ Maecenas mauris eros, sollicitudin at elit in,
 pellentesque
 mattis orci. Aliquam elementum finibus dictum.
 
+<<<<<<< HEAD
 CHANGED BY MAINTAINER
+=======
+CHANGED BY CONTRIBUTOR
+>>>>>>> 3bad2ef (Changes file1 file2 file3)
 
 Integer ac nibh nec est porttitor semper ultrices eu
 ligula. Etiam sodales porttitor venenatis.
